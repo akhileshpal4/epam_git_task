@@ -1,1 +1,2 @@
 new file content
+second line of file
